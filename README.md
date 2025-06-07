@@ -38,7 +38,7 @@ jobs:
         npm run test:coverage
 
     - name: Aggregate LCOV results
-      uses: RauliL/workspace-lcov-aggregate-action@master
+      uses: RauliL/workspace-lcov-aggregate-action@main
 
     - name: Coveralls
       uses: coverallsapp/github-action@master
