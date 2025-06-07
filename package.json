@@ -29,6 +29,6 @@
   ],
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "workspace-lcov-aggregate": "^1.0.0"
+    "workspace-lcov-aggregate": "^1.0.1"
   }
 }

@@ -303,10 +303,10 @@ workspace-info@^0.0.5:
     tslib "^2.0.0"
     yargs "^15.4.1"
 
-workspace-lcov-aggregate@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/workspace-lcov-aggregate/-/workspace-lcov-aggregate-1.0.0.tgz#760067f03659616c2f0cac7318ab136aac539bba"
-  integrity sha512-tITFLCyTNBjZCBw+MNAN/YtRtq2PofgrRkAyFQA9o3IOEv+qKdVndrijhojLpzB240lvhujMY9rU964GUelslw==
+workspace-lcov-aggregate@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/workspace-lcov-aggregate/-/workspace-lcov-aggregate-1.0.1.tgz#91fa42a5d82bf7e276f037225eefcd3b8df19a31"
+  integrity sha512-RSyL54d7YW/MEE6cgEffzNrne/YS10z7rdbJEM6H2aPjEvM2ftaQW6dzVE34sZYGIAXd8JNkcLJzaldPgB40vA==
   dependencies:
     n-readlines "^1.0.1"
     workspace-info "^0.0.5"
