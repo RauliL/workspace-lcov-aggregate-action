@@ -1,0 +1,8 @@
+name: 'Aggregate LCOV results'
+description: 'Aggregates multiple LCOV results into one inside monorepo'
+branding:
+  color: 'blue'
+  icon: 'git-merge'
+runs:
+  using: 'node20'
+  main: 'index.js'
